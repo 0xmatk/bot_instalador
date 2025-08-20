@@ -1,0 +1,17 @@
+=== DEBUG INFO - Paso 1 ===
+Timestamp: 2025-08-20 12:50:20.584835
+Acción: Auto paso 1
+
+=== INFORMACIÓN DE VENTANA ===
+Título: C:\Users\Matias\AppData\Local\Programs\Python\Python313\python.exe
+Dimensiones: 993x519
+Handle: 1312354
+
+=== ELEMENTOS UI DETECTADOS (0) ===
+=== CONTROLES WIN32 (1) ===
+1. Clase: ConsoleWindowClass
+   Texto: C:\Users\Matias\AppData\Local\Programs\Python\Python313\python.exe
+   Handle: 1312354
+
+=== INFORMACIÓN ADICIONAL ===
+Texto extraído usando Win32 API (ver controles abajo)

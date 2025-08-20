@@ -1,0 +1,41 @@
+=== DEBUG INFO - Paso 2 ===
+Timestamp: 2025-08-19 11:28:41.950208
+Acción: Después de cancel - ventana cambió
+
+=== INFORMACIÓN DE VENTANA ===
+Título: Descargas - Explorador de archivos
+Dimensiones: 1920x1032
+Handle: 1444022
+
+=== ELEMENTOS UI DETECTADOS (0) ===
+=== CONTROLES WIN32 (7) ===
+1. Clase: CabinetWClass
+   Texto: Descargas - Explorador de archivos
+   Handle: 1444022
+
+2. Clase: ShellTabWindowClass
+   Texto: Descargas
+   Handle: 2033998
+
+3. Clase: Shell Preview Extension Host
+   Texto: Shell Preview Extension Host
+   Handle: 920660
+
+4. Clase: NamespaceTreeControl
+   Texto: Control de árbol de espacios de nombres
+   Handle: 461204
+
+5. Clase: Static
+   Texto: Control de árbol de espacios de nombres
+   Handle: 2033956
+
+6. Clase: SysTreeView32
+   Texto: Panel de navegación
+   Handle: 657522
+
+7. Clase: SHELLDLL_DefView
+   Texto: ShellView
+   Handle: 1509652
+
+=== INFORMACIÓN ADICIONAL ===
+Texto extraído usando Win32 API (ver controles abajo)

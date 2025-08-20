@@ -1,0 +1,29 @@
+=== DEBUG INFO - Paso 2 ===
+Timestamp: 2025-08-20 02:25:04.502480
+Acción: Auto paso 2
+
+=== INFORMACIÓN DE VENTANA ===
+Título: ui_clicker.py - IA-Ollama - Visual Studio Code
+Dimensiones: 1200x804
+Handle: 262164
+
+=== ELEMENTOS UI DETECTADOS (2) ===
+1. Tipo: button, Color: gray_light
+   Posición: (1144, 636)
+   Tamaño: 96x40
+
+2. Tipo: button, Color: gray_light
+   Posición: (1030, 638)
+   Tamaño: 92x36
+
+=== CONTROLES WIN32 (2) ===
+1. Clase: Chrome_WidgetWin_1
+   Texto: ui_clicker.py - IA-Ollama - Visual Studio Code
+   Handle: 262164
+
+2. Clase: Chrome_RenderWidgetHostHWND
+   Texto: Chrome Legacy Window
+   Handle: 196714
+
+=== INFORMACIÓN ADICIONAL ===
+Texto extraído usando Win32 API (ver controles abajo)
